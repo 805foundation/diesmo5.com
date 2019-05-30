@@ -1,0 +1,25 @@
+/* Global */
+body {
+  width: 100%;
+  overflow-x: hidden;
+  margin: 0;
+  border-left: 0;
+  font-family: "Montserrat", sans-serif;
+}
+/* Opacity */
+.opacity-8 {
+  opacity: 0.85;
+}
+
+
+/* Background Colors */
+
+.bg-rock {
+  background-image: linear-gradient(to bottom right, #969696, #000000);
+}
+.bg-peach {
+  background-image: linear-gradient(to bottom right, #ff758c, #ff7eb3);
+}
+.bg-blue {
+  background-image: linear-gradient(to bottom right, #89f7fe, #66a6ff);
+}
